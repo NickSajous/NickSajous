@@ -6,4 +6,4 @@
   - [osTicket: Prerequisites and Installation](https://github.com/NickSajous/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/NickSajous/osTicket---Post-Install-Configuration)
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NickSajous/azure-network-protocols/blob/main/README.md)
